@@ -97,12 +97,5 @@ public class Payload {
                 "}\n";
     }
 }
-/*
-Bearer token for jira basic authentication
-ayush.vermax16@gmail.com:ATATT3xFfGF0MZTUfz63cbhYvMNu2mGJg0CfoNW3oDvzUlWpLidreS1fIlaHJnJFHVpWICJ1vPEgCKtFOLzCm-x7eCzmKnXZdu3Qr_Aso7E4EY3Wp-qn9ZjhbQmbji8laYvwwz4pNBGp-V_YBA9s6yq5CyVAut-kTABDQGd0GHO_mDzUMzMtRQg=19A0F727
 
-
-converted base64 YXl1c2gudmVybWF4MTZAZ21haWwuY29tOkFUQVRUM3hGZkdGME1aVFVmejYzY2JoWXZNTnUybUdKZzBDZm9OVzNvRHZ6VWxXcExpZHJlUzFmSWxhSEpuSkZIVnBXSUNKMXZQRWdDS3RGT0x6Q20teDdlQ3ptS25YWmR1M1FyX0FzbzdFNEVZM1dwLXFuOVpqaGJRbWJqaThsYVl2d3d6NHBOQkdwLVZfWUJBOXM2eXE1Q3lWQXV0LWtUQUJEUUdkMEdIT19tRHpVTXpNdFJRZz0xOUEwRjcyNw==
-
- */
 
