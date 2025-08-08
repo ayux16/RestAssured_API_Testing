@@ -1,7 +1,6 @@
-package org.Prototype.files.Serialization_Of_Payload;
+package org.Prototype.files.SpecBuilder.Serialization_Of_Payload1;
 
 import io.restassured.RestAssured;
-import org.Prototype.files.Payload.Payload;
 import org.testng.annotations.Test;
 
 import java.util.ArrayList;

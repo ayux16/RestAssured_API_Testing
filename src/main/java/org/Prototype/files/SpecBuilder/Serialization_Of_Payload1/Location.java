@@ -1,4 +1,4 @@
-package org.Prototype.files.Serialization_Of_Payload;
+package org.Prototype.files.SpecBuilder.Serialization_Of_Payload1;
 
 public class Location {
     private double lat;
