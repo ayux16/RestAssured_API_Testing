@@ -13,7 +13,7 @@ public class BugTest {
         RestAssured.baseURI = "https://ayushvermax16asdad.atlassian.net";
         String response=given().log().all()
                 .header("Content-Type","application/json")
-                .header("Authorization", AuthorizationToken.AuthenticationBearerBASE64Token())
+                .header("Authorization", "123142124124313142124")
                 .body(Payload.AutomatingJiraAuthentication())
                 .when().post("/rest/api/3/issue")
                 .then().log().all().assertThat().statusCode(201)

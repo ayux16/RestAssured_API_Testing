@@ -2,7 +2,7 @@ package org.Prototype.files.CRUD_TESTING;
 
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
-import org.Prototype.files.Payload;
+import org.Prototype.files.Payload.Payload;
 import org.testng.Assert;
 
 import static io.restassured.RestAssured.*;
