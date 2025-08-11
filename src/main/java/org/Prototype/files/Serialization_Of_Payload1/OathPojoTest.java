@@ -62,3 +62,7 @@ public class OathPojoTest {
         System.out.println("Response :: " + resnseString);
     }
 }
+/*
+for request specification we will have set____  -> example setBaseURI
+for response specification we will have expect____-> example expectedStatusCode(200)
+ */
